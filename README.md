@@ -1,4 +1,4 @@
-<h2 align="center">Привет 👋</h2>
+<h2 align="center">Hello, Mir 👋</h2>
 
 
 ![CodeWars Stats](https://www.codewars.com/users/soulless_/badges/micro)
@@ -10,9 +10,9 @@
 
 Я работал с этим :
 <div>
+<img src=https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg title="Dart" alt="Dart" width="40" height="40"/>&nbsp
+<img src=https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp
 <img src=https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg title="Python" alt="Python" width="40" height="40"/>&nbsp
-<img src=https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg title="CSS3" alt="Dart" width="40" height="40"/>&nbsp
-  
 </div>
 
 
